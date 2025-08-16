@@ -45,7 +45,7 @@ Equity-research-project/
 ## 🔧 Requirements
 
 - Python 3.10+ (3.11/3.12 OK)
-- macOS/Linux/Windows
+- macOS
 - An OpenAI **Platform** API key (billing enabled)
 
 ### Python packages
@@ -129,7 +129,3 @@ streamlit run main.py --server.port 8502
 - [ ] If using OpenAI: billing set up + credits purchased + monthly budget > $0
 
 ---
-
-## 📄 License
-
-MIT (or add your preferred license).
