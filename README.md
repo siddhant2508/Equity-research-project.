@@ -2,10 +2,6 @@
 
 A Streamlit app that ingests news/article URLs, builds a local FAISS vector index with OpenAI embeddings, and answers questions with source citations using a Retrieval-QA chain (LangChain).
 
-> ✅ Updated for LangChain v0.2+ (`langchain_openai`, `langchain_community`)  
-> ✅ Uses `FAISS.save_local()` / `FAISS.load_local()` (no pickling)  
-> ✅ Streamlit-first run instructions (no more ScriptRunContext warnings)
-
 ---
 
 ## ✨ Features
